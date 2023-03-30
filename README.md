@@ -10,7 +10,7 @@
 - [dotenv](https://www.npmjs.com/package/dotenv) - A zero-dependency module that loads environment variables from a `.env` file into `process.env`
 - [eslint](https://eslint.org) - A tool for identifying and reporting on patterns found in ECMAScript/JavaScript code
 
-## Dev Dependencies
+## Developer Dependencies
 - [typescript](https://www.typescriptlang.org) - A language for application-scale JavaScript
 - [@types/node](https://www.npmjs.com/package/@types/node) - TypeScript definitions for Node.js
 - [@typescript-eslint/eslint-plugin](https://www.npmjs.com/package/@typescript-eslint/eslint-plugin) - An ESLint plugin which provides lint rules for TypeScript codebases

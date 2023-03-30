@@ -12,6 +12,7 @@
 		"noUnusedParameters": false,
 		"preserveConstEnums": false,
 		"newLine": "crlf",
+		"ignoreDeprecations": "5.0",
 	},
 	"include": [
 		"src"
